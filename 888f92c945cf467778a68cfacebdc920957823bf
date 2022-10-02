@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "caf6827a_109d15ae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020574
+      },
+      "writtenOn": "2022-10-02T04:55:36Z",
+      "side": 1,
+      "message": "Make sure to add content to the README",
+      "revId": "888f92c945cf467778a68cfacebdc920957823bf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
