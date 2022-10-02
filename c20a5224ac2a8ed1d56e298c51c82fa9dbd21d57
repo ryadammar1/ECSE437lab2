@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "88c9dddc_dc52bb1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1020571
+      },
+      "writtenOn": "2022-10-02T15:24:40Z",
+      "side": 1,
+      "message": "I added to the README.md and amended the commit",
+      "revId": "c20a5224ac2a8ed1d56e298c51c82fa9dbd21d57",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
